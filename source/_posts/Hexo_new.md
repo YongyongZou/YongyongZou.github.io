@@ -84,6 +84,8 @@ leadcloud
    5. 修改站点文件：比如设置title和url
    6. 生成标签等
       1. hexo new page "tags" "categories" "about"
+   7. 安装插件：npm install hexo-deployer-git --save
+   8. 提交渲染静态网页： hexo g; hexo d
 
 5. 熟悉编程语言；
 
